@@ -15,11 +15,11 @@ gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 
 # Use Ruber Racer as a V8 Javascript interpreter
-gem 'therubyracer'
+gem 'therubyracer', '0.12.1'
 # Use OmniAuth for authentication
-gem 'omniauth'
+gem 'omniauth', '1.2.2'
 # Authenticate with Facebook
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '2.0.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
